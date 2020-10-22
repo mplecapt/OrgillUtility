@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="17.6" version="17.6" Modules="simple" RootPath="." Language="en" Id="{CE00A62B-EB8C-48B8-9477-764A9B0AF60A}">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_ExcelDataReader.DataSet.dll" Value="..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_ExcelDataReader.dll" Value="..\packages\ExcelDataReader.3.6.0\lib\net45"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_HtmlAgilityPack.dll" Value="..\packages\HtmlAgilityPack.1.11.24\lib\Net45"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_HtmlUnit.dll" Value="..\packages\NHtmlUnit.2.19.0\lib\net45"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.AWT.WinForms.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Beans.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Charsets.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Cldrdata.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Corba.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Core.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Jdbc.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Localedata.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Management.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Media.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Misc.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Naming.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Nashorn.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Remoting.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Security.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.SwingAWT.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Text.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Tools.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Util.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.API.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Bind.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Parse.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Transform.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.XPath.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.Runtime.JNI.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_IKVM.Runtime.dll" Value="..\packages\IKVM.8.1.5717.0\lib"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_NHtmlUnit.dll" Value="..\packages\NHtmlUnit.2.19.0\lib\net45"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_OrgillUtil_v3.exe" Value="..\OrgillUtil_v3\bin\Release"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_OrgillUtil_v3.exe.config" Value="..\OrgillUtil_v3\bin\Release"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll" Value="..\packages\System.Runtime.CompilerServices.Unsafe.4.7.1\lib\net461"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_System.Text.Encoding.CodePages.dll" Value="..\packages\System.Text.Encoding.CodePages.4.7.1\lib\net461"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_ExcelDataReader.DataSet.dll" Value="ExcelDataReader.DataSet.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_ExcelDataReader.dll" Value="ExcelDataReader.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_HtmlAgilityPack.dll" Value="HtmlAgilityPack.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_HtmlUnit.dll" Value="HtmlUnit.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.AWT.WinForms.dll" Value="IKVM.AWT.WinForms.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Beans.dll" Value="IKVM.OpenJDK.Beans.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Charsets.dll" Value="IKVM.OpenJDK.Charsets.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Cldrdata.dll" Value="IKVM.OpenJDK.Cldrdata.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Corba.dll" Value="IKVM.OpenJDK.Corba.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Core.dll" Value="IKVM.OpenJDK.Core.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Jdbc.dll" Value="IKVM.OpenJDK.Jdbc.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Localedata.dll" Value="IKVM.OpenJDK.Localedata.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Management.dll" Value="IKVM.OpenJDK.Management.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Media.dll" Value="IKVM.OpenJDK.Media.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Misc.dll" Value="IKVM.OpenJDK.Misc.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Naming.dll" Value="IKVM.OpenJDK.Naming.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Nashorn.dll" Value="IKVM.OpenJDK.Nashorn.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Remoting.dll" Value="IKVM.OpenJDK.Remoting.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Security.dll" Value="IKVM.OpenJDK.Security.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.SwingAWT.dll" Value="IKVM.OpenJDK.SwingAWT.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Text.dll" Value="IKVM.OpenJDK.Text.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Tools.dll" Value="IKVM.OpenJDK.Tools.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Util.dll" Value="IKVM.OpenJDK.Util.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.API.dll" Value="IKVM.OpenJDK.XML.API.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Bind.dll" Value="IKVM.OpenJDK.XML.Bind.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll" Value="IKVM.OpenJDK.XML.Crypto.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Parse.dll" Value="IKVM.OpenJDK.XML.Parse.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Transform.dll" Value="IKVM.OpenJDK.XML.Transform.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll" Value="IKVM.OpenJDK.XML.WebServices.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.XPath.dll" Value="IKVM.OpenJDK.XML.XPath.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.Runtime.JNI.dll" Value="IKVM.Runtime.JNI.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_IKVM.Runtime.dll" Value="IKVM.Runtime.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_NHtmlUnit.dll" Value="NHtmlUnit.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe" Value="OrgillUtil_v3.exe"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe.config" Value="OrgillUtil_v3.exe.config"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll" Value="System.Runtime.CompilerServices.Unsafe.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_System.Text.Encoding.CodePages.dll" Value="System.Text.Encoding.CodePages.dll"/>
+    <ROW Property="ALLUSERS" Value="1"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="ARPPRODUCTICON" Value="orgill.exe" Type="8"/>
+    <ROW Property="ARPURLINFOABOUT" Value="https://github.com/mplecapt/OrgillUtility"/>
+    <ROW Property="Manufacturer" Value="IE Swift Co"/>
+    <ROW Property="ProductCode" Value="1033:{F8344AC6-0D0F-4708-83D9-954FDEEE662F} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="Orgill Utility"/>
+    <ROW Property="ProductVersion" Value="3.1.0" Type="32"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{C9CCB285-33F3-4FA0-A945-09496FE2A851}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50Display" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5X" MultiBuildValue="DefaultBuild:Windows XP/2003" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5XDisplay" MultiBuildValue="DefaultBuild:Windows XP/2003" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="DesktopFolder" Directory_Parent="TARGETDIR" DefaultDir="DESKTO~1|DesktopFolder" IsPseudoRoot="1"/>
+    <ROW Directory="OrgillUtil_v3_Dir" Directory_Parent="APPDIR" DefaultDir="ORGILL~1|OrgillUtil_v3"/>
+    <ROW Directory="SHORTCUTDIR" Directory_Parent="TARGETDIR" DefaultDir="SHORTC~1|SHORTCUTDIR" IsPseudoRoot="1"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="APPDIR" ComponentId="{83023D59-7AF3-4520-B5F0-33D05C99DF0A}" Directory_="APPDIR" Attributes="0"/>
+    <ROW Component="OrgillUtil_v3_PrimaryOutput" ComponentId="{F7A844C4-CFB8-4AFD-91FF-066CE0AC4A52}" Directory_="OrgillUtil_v3_Dir" Attributes="0" KeyPath="OrgillUtil_v3.exe"/>
+    <ROW Component="OrgillUtil_v3_References" ComponentId="{8E281049-014E-4785-8443-946ED582E9EB}" Directory_="OrgillUtil_v3_Dir" Attributes="0" KeyPath="System.Text.Encoding.CodePages.dll"/>
+    <ROW Component="ProductInformation" ComponentId="{A0B82F1E-EFFF-48AF-910F-1880981CF6FB}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="SHORTCUTDIR" ComponentId="{6AA87758-5DC3-4D29-9B2F-D660E7994514}" Directory_="SHORTCUTDIR" Attributes="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="OrgillUtil_v3.exe" Component_="OrgillUtil_v3_PrimaryOutput" FileName="ORGILL~2.EXE|[|AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_OrgillUtil_v3.exe&gt;" SelfReg="false" DigSign="true"/>
+    <ROW File="OrgillUtil_v3.exe.config" Component_="OrgillUtil_v3_PrimaryOutput" FileName="ORGILL~2.CON|[|AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe.config]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_OrgillUtil_v3.exe.config&gt;" SelfReg="false"/>
+    <ROW File="ExcelDataReader.DataSet.dll" Component_="OrgillUtil_v3_References" FileName="EXCELD~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_ExcelDataReader.DataSet.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_ExcelDataReader.DataSet.dll&gt;" SelfReg="false"/>
+    <ROW File="ExcelDataReader.dll" Component_="OrgillUtil_v3_References" FileName="EXCELD~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_ExcelDataReader.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_ExcelDataReader.dll&gt;" SelfReg="false"/>
+    <ROW File="HtmlAgilityPack.dll" Component_="OrgillUtil_v3_References" FileName="HTMLAG~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_HtmlAgilityPack.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_HtmlAgilityPack.dll&gt;" SelfReg="false"/>
+    <ROW File="HtmlUnit.dll" Component_="OrgillUtil_v3_References" FileName="[|AI_PROPPATH_FILENAME_PERBUILD_HtmlUnit.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_HtmlUnit.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.AWT.WinForms.dll" Component_="OrgillUtil_v3_References" FileName="IKVMAW~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.AWT.WinForms.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.AWT.WinForms.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Beans.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Beans.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Beans.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Charsets.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Charsets.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Charsets.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Cldrdata.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~4.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Cldrdata.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Cldrdata.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Corba.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~5.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Corba.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Corba.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Core.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~6.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Core.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Core.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Jdbc.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~7.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Jdbc.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Jdbc.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Localedata.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~8.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Localedata.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Localedata.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Management.dll" Component_="OrgillUtil_v3_References" FileName="IKVMOP~9.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Management.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Management.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Media.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~10.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Media.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Media.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Misc.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~11.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Misc.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Misc.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Naming.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~12.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Naming.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Naming.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Nashorn.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~13.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Nashorn.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Nashorn.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Remoting.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~14.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Remoting.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Remoting.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Security.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~15.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Security.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Security.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.SwingAWT.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~16.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.SwingAWT.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.SwingAWT.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Text.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~17.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Text.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Text.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Tools.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~18.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Tools.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Tools.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.Util.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~19.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Util.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.Util.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.API.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~20.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.API.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.API.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.Bind.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~21.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Bind.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Bind.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.Crypto.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~22.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.Parse.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~23.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Parse.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Parse.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.Transform.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~24.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Transform.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Transform.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.WebServices.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~25.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.OpenJDK.XML.XPath.dll" Component_="OrgillUtil_v3_References" FileName="IKVMO~26.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.XPath.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.XPath.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.Runtime.dll" Component_="OrgillUtil_v3_References" FileName="IKVMRU~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.Runtime.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.Runtime.dll&gt;" SelfReg="false"/>
+    <ROW File="IKVM.Runtime.JNI.dll" Component_="OrgillUtil_v3_References" FileName="IKVMRU~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.Runtime.JNI.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_IKVM.Runtime.JNI.dll&gt;" SelfReg="false"/>
+    <ROW File="NHtmlUnit.dll" Component_="OrgillUtil_v3_References" FileName="NHTMLU~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_NHtmlUnit.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_NHtmlUnit.dll&gt;" SelfReg="false"/>
+    <ROW File="System.Runtime.CompilerServices.Unsafe.dll" Component_="OrgillUtil_v3_References" FileName="SYSTEM~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll&gt;" SelfReg="false"/>
+    <ROW File="System.Text.Encoding.CodePages.dll" Component_="OrgillUtil_v3_References" FileName="SYSTEM~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_System.Text.Encoding.CodePages.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_System.Text.Encoding.CodePages.dll&gt;" SelfReg="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.AppPathsComponent">
+    <ROW Name="AI_APPPATH_PERBUILD_ExcelDataReader.DataSet.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_ExcelDataReader.DataSet.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_ExcelDataReader.DataSet.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_ExcelDataReader.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_ExcelDataReader.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_ExcelDataReader.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_HtmlAgilityPack.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_HtmlAgilityPack.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_HtmlAgilityPack.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_HtmlUnit.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_HtmlUnit.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_HtmlUnit.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.AWT.WinForms.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.AWT.WinForms.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.AWT.WinForms.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Beans.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Beans.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Beans.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Charsets.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Charsets.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Charsets.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Cldrdata.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Cldrdata.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Cldrdata.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Corba.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Corba.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Corba.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Core.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Core.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Core.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Jdbc.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Jdbc.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Jdbc.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Localedata.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Localedata.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Localedata.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Management.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Management.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Management.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Media.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Media.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Media.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Misc.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Misc.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Misc.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Naming.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Naming.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Naming.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Nashorn.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Nashorn.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Nashorn.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Remoting.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Remoting.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Remoting.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Security.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Security.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Security.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.SwingAWT.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.SwingAWT.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.SwingAWT.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Text.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Text.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Text.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Tools.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Tools.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Tools.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.Util.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.Util.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.Util.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.API.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.API.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.API.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Bind.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Bind.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Bind.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Crypto.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Parse.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Parse.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Parse.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.Transform.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.Transform.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.Transform.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.WebServices.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.OpenJDK.XML.XPath.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.OpenJDK.XML.XPath.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.OpenJDK.XML.XPath.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.Runtime.JNI.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.Runtime.JNI.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.Runtime.JNI.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_IKVM.Runtime.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_IKVM.Runtime.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_IKVM.Runtime.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_NHtmlUnit.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_NHtmlUnit.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_NHtmlUnit.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_OrgillUtil_v3.exe" Path="[|AI_PROPPATH_DIR_PERBUILD_OrgillUtil_v3.exe]\[|AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_OrgillUtil_v3.exe.config" Path="[|AI_PROPPATH_DIR_PERBUILD_OrgillUtil_v3.exe.config]\[|AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe.config]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Runtime.CompilerServices.Unsafe.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_System.Text.Encoding.CodePages.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_System.Text.Encoding.CodePages.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_System.Text.Encoding.CodePages.dll]" Type="2" Content="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
+    <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" Languages="en" InstallationType="4" UseLargeSchema="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCreateFolderComponent">
+    <ROW Directory_="APPDIR" Component_="APPDIR" ManualDelete="true"/>
+    <ROW Directory_="SHORTCUTDIR" Component_="SHORTCUTDIR" ManualDelete="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_EnableDebugLog" Type="321" Source="aicustact.dll" Target="EnableDebugLog"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatCompsComponent">
+    <ROW Feature_="MainFeature" Component_="APPDIR"/>
+    <ROW Feature_="MainFeature" Component_="ProductInformation"/>
+    <ROW Feature_="MainFeature" Component_="OrgillUtil_v3_PrimaryOutput"/>
+    <ROW Feature_="MainFeature" Component_="SHORTCUTDIR"/>
+    <ROW Feature_="MainFeature" Component_="OrgillUtil_v3_References"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
+    <ROW Name="orgill.exe" SourcePath="..\orgill.ico" Index="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="53"/>
+    <ROW Action="AI_DpiContentScale" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="((VersionNT &lt;&gt; 501) AND (VersionNT &lt;&gt; 502))" Description="[ProductName] cannot be installed on [WindowsTypeNT5XDisplay]." DescriptionLocId="AI.LaunchCondition.NoNT5X" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on [WindowsTypeNT40Display]." DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT &lt;&gt; 500)" Description="[ProductName] cannot be installed on [WindowsTypeNT50Display]." DescriptionLocId="AI.LaunchCondition.NoNT50" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]." DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="AI_PROPPATH_FILENAME_PERBUILD_Orgil" Directory_="DesktopFolder" Name="ORGILL~1.EXE|[|AI_PROPPATH_FILENAME_PERBUILD_OrgillUtil_v3.exe]" Component_="OrgillUtil_v3_PrimaryOutput" Target="[#OrgillUtil_v3.exe]" Hotkey="0" Icon_="orgill.exe" IconIndex="0" ShowCmd="1" WkDir="OrgillUtil_v3_Dir"/>
+    <ROW Shortcut="OrgillUtil_v3" Directory_="SHORTCUTDIR" Name="ORGILL~1|OrgillUtil_v3" Component_="OrgillUtil_v3_PrimaryOutput" Target="[#OrgillUtil_v3.exe]" Hotkey="0" IconIndex="0" ShowCmd="1"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.VsProjectComponent">
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="PrimaryOutput" OutputFile="OrgillUtil_v3.exe" OutputFileShortcut="OrgillUtil_v3"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="PrimaryOutput" OutputFile="OrgillUtil_v3.exe.config"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="ExcelDataReader.DataSet.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="ExcelDataReader.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="HtmlAgilityPack.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="HtmlUnit.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.AWT.WinForms.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Beans.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Charsets.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Cldrdata.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Corba.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Core.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Jdbc.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Localedata.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Management.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Media.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Misc.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Naming.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Nashorn.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Remoting.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Security.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.SwingAWT.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Text.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Tools.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.Util.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.API.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.Bind.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.Crypto.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.Parse.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.Transform.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.WebServices.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.OpenJDK.XML.XPath.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.Runtime.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="IKVM.Runtime.JNI.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="NHtmlUnit.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="System.Runtime.CompilerServices.Unsafe.dll"/>
+    <ROW ProjectId="{d568502b-584c-4b4d-9a19-6eac08f4260e}" ProjectName="OrgillUtil_v3" OutputGroup="References" OutputFile="System.Text.Encoding.CodePages.dll"/>
+  </COMPONENT>
+</DOCUMENT>
