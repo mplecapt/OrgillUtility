@@ -1,0 +1,24 @@
+﻿<Window x:Class="OrgillUtil_v3.LoginDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrgillUtil_v3"
+        mc:Ignorable="d"
+        Title="Login" ResizeMode="NoResize" SizeToContent="WidthAndHeight" Topmost="True" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="orgill.ico">
+    <Grid>
+        <Border Padding="10" Background="#FFE6E6E6">
+            <StackPanel>
+                <TextBlock Height="23" Text="Login to Orgill:" FontSize="17" FontStretch="ExtraCondensed"/>
+                <Label Height="23" Content="Username"/>
+                <TextBox Height="25" Name="textBoxEmail"/>
+                <Label Height="23" Content="Password"/>
+                <PasswordBox Height="25" Name="passwordBox1"/>
+                <StackPanel Orientation="Horizontal" Margin="10">
+                    <Button Content="Login" Height="25" Margin="0,0,10,0" Name="button1" VerticalAlignment="Top" Width="100" Click="Login_Click" IsDefault="True" />
+                    <Button Content="Cancel" Height="25" Name="button2" VerticalAlignment="Top" Width="100" Click="Cancel_Click" IsCancel="True" />
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

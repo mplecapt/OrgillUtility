@@ -1,0 +1,19 @@
+﻿<Window x:Class="OrgillUtil_v3.InputDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrgillUtil_v3"
+        mc:Ignorable="d"
+        Title="InputDialog" ResizeMode="NoResize" SizeToContent="WidthAndHeight" Padding="10" WindowStartupLocation="CenterScreen" Topmost="True" Background="#FFE6E6E6" Icon="orgill.ico">
+    <Border Padding="10">
+        <StackPanel>
+            <TextBlock Name="Prompt" Text="Prompt" FontSize="16" Margin="0,0,0,10"/>
+            <TextBox Name="Result" Margin="10,0" Height="25" FontSize="16"/>
+            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+                <Button Name="OK" Content="Submit" IsDefault="True" Width="100" Height="25" Margin="0,0,10,0" Click="OK_Click"></Button>
+                <Button Name="Cancel" Content="Cancel" IsCancel="True" Width="100" Height="25" Click="Cancel_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>
