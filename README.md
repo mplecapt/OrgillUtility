@@ -9,3 +9,6 @@ Utility for creating purchase order for Orgill, from RockSolid Roman.
 
 * The program will also export a list of all the products that were out in the warehouse.
 * Occasionally, the progrom exports a list of lines that were unreadable, and indicate errors in the pos that need to be corrected.
+
+### Installation
+Installation file for the current build can be found [here](Installer%20Project/Installer%20Project-SetupFiles/)
